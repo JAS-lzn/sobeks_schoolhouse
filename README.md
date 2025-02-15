@@ -1,4 +1,4 @@
-# sobeks_schoolhouse
+# Sobek's Schoolhouse
 A place to hold my disorganized, flailing attempts at learning `zig`
 
 
